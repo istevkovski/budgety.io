@@ -1,15 +1,11 @@
-##Budgety
+## Budgety
 
+##### Calculate your tomorrow, own your expenses!
+&nbsp;
+**&#62; Budgety project created.**
+**&#62; All general goals completed.**
+**&#62; Added: Saving data locally**
+**&#62; Added: Loading local data**
+**&#62; Added: Support for $M / 9 figure numbers**
 
-
-######> Calculate your tomorrow, own your expenses!
-
-
-
-	> Budgety project created.
-	> All general goals completed.
-	> Added: Saving data locally
-	> Added: Loading local data
-	> Added: Support for $M / 9 figure numbers
-
-	> Todo: Experimental comment lines and highlighting to be removed.
+**&#62; Todo: Experimental comment lines and highlighting to be removed.**
