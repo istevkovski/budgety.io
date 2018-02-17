@@ -1,7 +1,9 @@
 ## Budgety
 
 ##### Calculate your tomorrow, own your expenses!
+
 &nbsp;
+
 **&#62; Budgety project created.**
 
 **&#62; All general goals completed.**
